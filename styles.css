@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    Background: purple;
+}
+
+h1 {
+    color: pink;
+    Background: limegreen;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+img {
+    width: 100px;
+}
